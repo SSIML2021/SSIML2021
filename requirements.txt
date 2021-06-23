@@ -1,0 +1,7 @@
+fasttext
+langdetect
+nltk
+numpy
+pandas
+scikit-learn
+termcolor
