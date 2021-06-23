@@ -24,7 +24,7 @@ supervision of banks in the euro area concept]</span> <span style="background-co
 We need a tagger or a entity recognition program, for example transformers, huggingface/bert: https://github.com/huggingface/transformers , or Spacy
 
 
-## 1.2. References
+## References
 
 Hosseini, M.J., Chambers, N., Reddy, S., Holt, X R., Cohen, S B., Johnson, M., & Steedman, M. (2018). Learning Typed Entailment Graphs with Global Soft Constraints, Transactions of the Association for Computational Linguistics. Sizov, G. & Ozturk, P. (2013). 
 
