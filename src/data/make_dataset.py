@@ -9,6 +9,7 @@ from termcolor import colored
 
 
 DOCUMENTS_FILEPATH = Path('data') / 'documents'
+ANNOTATIONS_FILEPATH = Path('data') / 'annotations'
 
 
 def read_data_file(file_name):
@@ -142,3 +143,10 @@ def make_dataset(speeches, speech_contents, map_contents):
     else:
         print("")
     return paragraph_texts_all, paragraph_values_all
+
+
+def read_annotations():
+    map_contents = read_data_file(ANNOTATIONS_FILEPATH / "Map_Contents-20200726.csv")
+    speech_contents = read_data_file(ANNOTATIONS_FILEPATH / "Speech_Contents-20210520.txt")
+    speeches = read_data_file(ANNOTATIONS_FILEPATH / "Speeches-20210520.txt")
+    return map_contents, speech_contents, speeches
