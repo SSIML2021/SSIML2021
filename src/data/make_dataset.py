@@ -110,7 +110,7 @@ def guess_language(paragraph_texts):
 def make_dataset(speeches, speech_contents, map_contents):
     paragraph_texts_all = {}
     paragraph_values_all = {}
-    files = os.listdir("txt")
+    files = os.listdir("data/documents")
     nbr_of_files = 0
     nbr_of_skipped = 0
     for file_name in files:
