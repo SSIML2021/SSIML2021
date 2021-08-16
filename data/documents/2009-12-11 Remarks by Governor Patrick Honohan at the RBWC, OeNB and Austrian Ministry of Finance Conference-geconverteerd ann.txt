@@ -1,0 +1,123 @@
+
+
+
+
+
+Remarks by Governor Patrick Honohan at the RBWC, OeNB and Austrian Ministry of Finance Conference: Tools for systemic risk assessment in Europe-
+The Parameters of the International Financial Architecture Post Crisis Vienna
+11 December 2009
+
+
+
+The crisis has had the effect of accelerating progress towards greater international cooperation in banking regulation, albeit not as far as some have hoped for. In particular, the proposed establishment of an elaborate new European infrastructure for financial supervision and systemic risk mitigation offers the prospect of a new era in cross-border collaboration and peer review and the development of methodologies that could set the standards for wider international financial surveillance.
+
+The new financial regulatory architecture for Europe, involving a European Systemic Risk Board (ESRB) and three sectoral European Supervisory Authorities (ESAs), agreed at last week's Ecofin Meeting and shortly to be considered by the European Parliament, has the potential to fill an important gap in the governance of financial regulation.
+
+Exercise of candour and the use of peer pressure from fellow-member states in the EU could be effective in countering political barriers to vigorous application of crisis prevention measures. The engaged outsider is often more clear-sighted and can help dispel an atmosphere of denial.
+
+The new bodies are being established against a background of vigorous professional and academic debate on crisis prevention and early warning
+
+methodologies. Existing methodologies have displayed evident shortcomings in practice to date, especially in regard to macro-prudential tools; one of the first tasks of the new bodies will be to develop a suite of strengthened techniques in this area. I'd like to offer a few personal observations on aspects of the task ahead.
+
+It is instructive in this context to look back at the main prior attempt to help ensure systemic financial stability through cross-border peer review, namely the Financial Sector Assessment Program of the IMF and the World Bank. There have been successes here, and some disappointments: much has been learnt about what can be achieved. The ESRB and ESAs will be able to build on this experience.
+
+The need for robust scientific methodologies in underpinning the recommendations of such assessments is one lesson, and the data requirements for the methodologies that exist are quite demanding. Establishment of the new EU regulatory architecture could lead to improvements here.
+
+I will conclude with a few remarks about what preventative messages and actions might have been hoped-for from a body such as the proposed ESRB had it existed a decade ago, by a country such as Ireland, most severely hit of the Eurozone banking systems in the current crisis.
+
+I begin with the IMF/World Bank FSAP. It is more than ten years since the first FSAP was carried out. The target country was Lebanon. Over one hundred and twenty countries - or three quarters of the membership of the Bank and Fund, have subsequently been assessed in the program, many of them receiving
+further -update? assessments in subsequent years.
+
+Given the scale of the global financial crisis that has unfolded over the past 30 months, I suppose that only partial success could be claimed for the program as a whole. But, although the overall success rate has been well below 100% (the Dominican Republic, Iceland and the UK are among the countries whose banking systems have been seriously compromised after having had an FSAP review), the comparative resilience of developing and emerging market financial systems
+
+may in part be attributable to the procedures and regulatory institutions that were put in place, strengthened and assessed over the past number of years under the influence of the programme.	I may as well point out that the US was not assessed before the crisis (nor were China or Indonesia, of G20 countries); I understand that the US FSAP is now underway.
+
+The stability toolbox of the FSAPs over the past 10 years could be characterized as having four main components. First is the assessment of regulatory arrangements against the templates developed by the standard setters - starting with the Basel Core Principles and proceeding through the parallel standards established by IAIS and IOSCO, the CPSIPS and so on. Second, the stress-testing exercise, typically focused on the banking system and generally including scenario analysis. Third, the assessment of crisis management capacity: lender of last resort facility, deposit insurance and so on. Finally, what has been called the overall assessment, where considerable cross-segmental judgement, combined with an awareness of the macroeconomic vulnerabilities is used to arrive at recommendations on necessary corrective measures.
+
+Standards
+The standards assessments were useful when they first came out in guiding the creation and upgrading of regulatory systems to what had become conventionally seen as best practice. Over time, however, assessments increasingly concentrated on verifying formal compliance of legislation with an increasingly complex set of requirements set out in the implementation manuals, and less on the quality of practical implementation and operational capacity of the regulatory agencies themselves (IMF and World Bank, 2009). Rather than see the exercise degenerate into a sterile box-checking exercise, the decision has been to reduce the number of standards being assessed.
+
+Stress tests
+If standards assessments have proved to be of diminishing use in guarding against or warning of systemic crises, what is? One possibility is stress tests. Stress tests are an obvious tool for risk management of any entity: confront the business plan with a set of scenarios of extreme but plausible shocks and see whether the outcome is acceptable. The theory behind systemwide stress tests
+
+is equally simple: start with a model of the assets and liabilities of each of the systemically important financial firms, and of how their value is influenced by wider economic conditions. Confront this model with extreme but plausible macroeconomic shocks and trace through the impact on the system.
+The exercise of conducting stress tests is undoubtedly helpful in deepening the analyst's understanding of where in the system (which firms) the main likely vulnerabilities lie. It appears, though, that stress tests have not yet fully delivered on their early promise. Indeed, the crisis can be said to have revealed shortcomings in existing stress test methodologies just as it revealed (and indeed was significantly driven by) hidden limitations of many risk management tools in use in recent years by market participants. (Haldane, 2009).
+
+Actually, in my view one of the most valuable parts of the stress test exercise is the prerequisite stage which explores the implications for balance sheets of a realistic forward-looking expected loss based on the most likely macroeconomic scenario. Especially for developing countries, this exercise can be quite effective in uncovering hidden problems.  But putting in place a fully adequate quantitative description of the assets and liabilities of all of the systemic financial firms, and their interactions, has proved to be exceedingly demanding, whether for developing or advanced economies.
+
+Then there is the problem of reducing the arbitrariness of choice in stress scenarios, both in scale and in the correlation between different elements of stress - interest rates and exchange rates, property prices, and so on. For scale, it can be helpful to invert the question, asking: -what is the maximum scale of stress which can be absorbed??  But for the pattern of correlations,
+history is only a limited guide. Indeed, it is interesting to note the recent finding by Alfaro and Drehmann (2009), in their review of stress-testing, that a large fraction of banking crises is not preceded by the kinds of macroeconomic conditions envisaged as causal in most current stress tests.
+
+This all points to a significant data and modelling exercise which is only in its infancy here. To push further forward to achieve a more effective approach to stress-testing will be a challenging task requiring the collection of much detailed micro data and ingenious modelling.
+
+
+Crisis management
+The crisis has highlighted the need for preparedness for crisis management and improved communication and collaboration between different national authorities. Here I believe that we are on more secure and recently well- trodden ground.  The IFIs themselves foresee -greater attention to central bank liquidity management frameworks, lender-of-last-resort arrangements, stress testing and scenario analysis capabilities of the supervisors, cross-agency coordination arrangements, bank resolution frameworks and tools, and
+frameworks for debt enforcement and restructuring and corporate insolvency.? The new European institutions will have an evident key role to perform here in helping to build new structures here that deliver the needed crisis management capacity and solve cross-border issues without resulting in a fragmentation of the European financial space.
+
+Overall assessment
+The -overall assessment? of the FSAPs has been more a matter of art than of science. No formal template exists and the concept was that the team would draw broadly on the evidence assembled and their holistic understanding of the financial system being reviewed to arrive at a prioritized list of key recommendations. In my view, this was a reasonable position to adopt. An overall stability assessment inherently calls for reflective judgment and not a mechanical application of quants.
+
+The main attempt to formalize this aspect was the reliance the so-called Financial Stability Indicators (FSIs) which were developed by the IMF for the FSAPs. These are, however, a simple checklist of aggregative indicators and have not, for example, been accompanied by a set of agreed risk thresholds. And they have not really been adequate to the task - perhaps no such list could ever be. Thus, the September 2009 review of the FSAP programme observes:
+-the standard FSIs that were used in surveillance did not provide sufficiently early warning of the turmoil. MCM is revising the list of core and encouraged FSIs for commercial banks, expanding them to include systemically important nonbank financial institutions, and broadening their coverage of sectoral risk
+
+exposures (e.g., to cover CDS spreads, distance to default, size of ABS markets and performance of MBS/ABS securities)? (IMF and World Bank, 2009).
+
+The bottom line here is that econometric-based empirical models for forecasting banking crises have not performed well. Although some macro indicators, especially rapid credit growth, have long been known to be often associated with crises, Type I errors are all too common (Demirg?ç-Kunt and Detragiache, 2004). A more promising use of macro indicators, in my own opinion, is in defining a zone of financial stability in which the probability of a crisis is low.
+This will leave at any time a group of countries or a segment of finance for which this probability is not low: these will be the systems worthy of additional focus, bearing in mind also the risk that imbalances in one region can spillover to others.
+
+Relative to the IMF-World Bank set-up, the new European architecture offers the prospect of a much more systematic data generation exercise. The IMF-World Bank teams could do little more in each of the jurisdictions in which they worked than assemble and process data that had already been collected. But the European architecture explicitly provides for the controlled flow of statistical information and implicitly for the emergence of new standards for what data needs to be collected on a common basis from all of the European Union member states - and potentially even further afield.
+
+What data to be used?
+But what data will be most useful and for what purpose will it be used? Here I think we need to be quite ambitious if this large effort is to make a sizable improvement in Europe's ability to forestall future systemic crises.
+The data that is most relevant for private financiers is often not the best adapted to the concerns of preserving financial stability. Let me mention two aspects as examples.
+
+Prices are not sufficient statistics
+First, prices are not sufficient statistics. If an investor knows the joint probability distribution of the prices of the assets from which she is constructing her portfolio, she can optimize her choice. But, if he is to grasp the risks to financial
+
+stability, the regulator needs to know in addition something about which regulated financial firms and other systemically relevant firms have assumed exposure to this price distribution. In this respect the regulator's data requirements are an order of magnitude (or if you like a whole dimension) larger than those of the investor. There has been some progress in quantifying these exposures. For example, drawing on a modelling framework proposed by Gray et al. (2007), Castrén and Kavonius (2009) have constructed quarterly time series of sectoral risks (market-value leverage; distance-to-default) for seven sectors identified in the flow of funds statistics for the euro area. This seems to be a very promising direction of quantitative research.
+
+On the other hand, the regulator is mainly concerned only with the tails of the distribution, whereas the investor is concerned with the rest of the distribution in order to determine the expected profitability of each investment strategy and the associated risks. Here too, however, in the end the data challenge may be larger for the regulator insofar as available evidence on the tail of the distribution is by definition limited: lengthy time series on a relevant stationary sample will be needed to get an accurate characterization.
+
+Market data does not tell all
+For financial stability, the future is all that matters. Analysis of historic correlations is only as good as the stability of the underlying behavioural relationships and stationarity of the shocks hitting the system. Nevertheless, some available data purports to tell us about the future, or at least the market's perception of the future and its risks. For example, the VIX tells us (on a conventional interpretation) how volatile market participants expect future equity prices to be. Distance-to-default measures (essentially equity value divided by its recent standard deviation) for particular financial firms are interpreted as telling us about the probability perceived by the market of the firm's market price going to zero.
+
+But, ironically, such market-based measures may tell us more about issues which market participants, having detected them, are already positioning themselves to hedge and isolate. As we have seen in the current crisis, it is that
+
+which is unexpected by the market that is most lethal in wiping out capital and especially in drying up liquidity.
+
+Modelling dynamic regulation
+Perhaps the most promising line of research and analysis in response to the crisis has related to the destabilizing effects of static regulation and (the market's rational expectation of) crisis response. Market-driven firms adapt to the rules and incentives that are created by any given regulatory structure and the consequences can be severe if regulation does not adapt. The FSB and the
+Basel Committee have been responding vigorously to the heightened awareness of these problems. A few examples:
+
+(i) It's fair to say that liquidity had slipped down the priority list of regulators in recent years before 2007. So this was exploited-for example banking business shed to SIVs which not only saved on capital but greatly amplified liquidity risks. The Comittee of European Banking Supervisors CEBS has since made numerous recommendations on liquidity risk management and supervision, and the Basel Committee is finalizing a proposal for a new global liquidity standard. There is evidently something to be said for imposing a higher capital requirement for liquidity and maturity transformation risks; calibrating such a requirement appropriately is an interesting research question.
+
+(ii) Fixed capital requirements induce pro-cyclical behaviour by banks. The natural solution - now being adopted by the Basel Committee- is to have countercyclical regulation placing speed-bumps in the way of too-rapid credit growth.
+
+(iii) It has been argued that expected crisis management responses with respect to firms that are Too Big to Fail, Too Interconnected To Fail or simply Too Important to Fail may have driven the trend towards gigantism, herd behaviour and increasing interconnectedness, as firms sought to ensure that they had such implicit protection. There have been various suggestions for dealing with this, and concrete proposals are being urgently developed by the FSB.
+
+Now that there is a wider appreciation of the scale on which market behaviour
+
+adapts in a potentially lethal way to static regulation, we can expect a greater degree of anticipation and adaptability to be built into regulation.
+
+In seeking the distinctive causes for each financial crisis, I generally start from the presumption (Shiller, 2000) that the source is the propagation of a misplaced optimism built on a half-truth which seems to foretell an unprecedented stream of prosperity. In the case of the global financial crisis, the half-truth was that formal statistical risk management techniques had become so sophisticated as to all but eliminate risk. The fact that - unlike the dot.com bubble or the technology boom of the roaring '20s - this half-truth was so intimately related to the techniques of risk management itself likely exacerbated the problem. Would an ESRB-type structure have forestalled this? Reflecting on that question could certainly help guide the design of the new regime now.
+
+9-2: But in the slipstream of the overall transatlantic bubble came smaller bubbles such as that in Iceland, Latvia and Ireland, each with its own half-truth. I believe that cross-border regulatory structures could have helped identify and explode these myths. What might an ESRB of the early 2000s told Ireland? In Ireland's case the scene was set by the seeming effortlessness of the -Celtic Tiger? boom which, starting in the late 1980s and especially after 1993 had soaked-up unemployment, attracted a huge increase in female participation and even caused a reversal in the traditional pattern of outmigration.  Then, on top of this sustained growth in employment, income and household formation, Ireland became a founder member of the eurozone. The euro brought a dramatic and sustained fall in nominal and real interest rates. All the ingredients, then, to sustain a belief that equilibrium house prices would soar and that the demand for housing units would continue to grow for the foreseeable future.
+
+What might have been hoped for in Ireland - and in other countries facing similar vulnerabilities - from an authoritative independent cross-border regulatory voice in Europe, with an impressive capacity to collect and process data?
+
+(i) For one thing, given what we know now about the potential for withdrawal
+
+of liquidity, it would have been appropriate for the ESRB to call attention to the risks of market financing on the scale which was occurring in Ireland, and to call for more vigorous action than actually was taken, possibly including higher capital.
+
+(ii) The overly rapid credit growth - 36 per cent per annum real for one not insignificant bank - could also have triggered a speed-bump type of additional capital.
+
+(iii) The ESAs and the ESRB might also have required more detailed and comprehensive data on collaterals taken, for example on development loans. These proved to be the real Achilles heel of the Irish banking crisis.
+
+(iv) The ESRB could likely also have imposed tougher and more realistic parameters for stress-testing.
+
+By acting in such ways, the ESRB could also have contributed to heightening public and official awareness of the vulnerabilities. Hindsight is a wonderful thing: our own domestic regulatory structure would today do just as I have outlined above. And it is arguable that an ESRB-type institution of 10 years ago would not have had the benefit of hindsight either. In that sense, perhaps this list is more a description of what in retrospect we would like to have done ourselves.
+
+Nevertheless, I believe that the new institutions do have the potential to help make significant improvements in regulatory performance. If I am right, then they will represent a substantial contribution to the sustained achievement of financial stability in Europe.
+
+
