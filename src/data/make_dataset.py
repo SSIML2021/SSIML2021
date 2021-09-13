@@ -118,7 +118,8 @@ def make_dataset(speeches, speech_contents, map_contents):
     nbr_of_files = 0
     nbr_of_skipped = 0
     for file_name in DOCUMENTS_FILEPATH.iterdir():
-        speech_id = get_speech_id(str(file_name), speeches)
+        file_name_only = str(file_name).split("/")[-1]
+        speech_id = get_speech_id(str(file_name_only), speeches)
         if speech_id is None:
             print(f"skipping file {file_name}")
             nbr_of_skipped += 1
