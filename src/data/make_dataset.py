@@ -121,7 +121,7 @@ def make_dataset(speeches, speech_contents, map_contents):
         else:
             paragraph_ids = get_paragraph_ids(speech_id, speech_contents)
             paragraph_values = check_paragraphs(speech_id, paragraph_ids, map_contents, file_name)
-            paragraph_list = read_paragraphs(f"txt/{file_name}")
+            paragraph_list = read_paragraphs(f"{DOCUMENTS_FILEPATH}/{file_name}")
             paragraph_texts = select_paragraphs(paragraph_list, paragraph_values, speech_id)
             language = guess_language(paragraph_texts)
             if language == "en":
