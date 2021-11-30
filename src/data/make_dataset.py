@@ -1,10 +1,15 @@
 import os
 import re
+from pathlib import Path
 
 import pandas as pd
 from langdetect import detect
 from nltk.tokenize import word_tokenize
 from termcolor import colored
+
+
+DOCUMENTS_FILEPATH = Path('data') / 'documents'
+ANNOTATIONS_FILEPATH = Path('data') / 'annotations'
 
 
 def read_data_file(file_name):
@@ -110,18 +115,18 @@ def guess_language(paragraph_texts):
 def make_dataset(speeches, speech_contents, map_contents):
     paragraph_texts_all = {}
     paragraph_values_all = {}
-    files = os.listdir("txt")
     nbr_of_files = 0
     nbr_of_skipped = 0
-    for file_name in files:
-        speech_id = get_speech_id(file_name, speeches)
-        if speech_id == None:
+    for file_name in DOCUMENTS_FILEPATH.iterdir():
+        file_name_only = str(pathlib.Path(file_name).name)
+        speech_id = get_speech_id(str(file_name_only), speeches)
+        if speech_id is None:
             print(f"skipping file {file_name}")
             nbr_of_skipped += 1
         else:
             paragraph_ids = get_paragraph_ids(speech_id, speech_contents)
             paragraph_values = check_paragraphs(speech_id, paragraph_ids, map_contents, file_name)
-            paragraph_list = read_paragraphs(f"{DOCUMENTS_FILEPATH}/{file_name}")
+            paragraph_list = read_paragraphs(file_name)
             paragraph_texts = select_paragraphs(paragraph_list, paragraph_values, speech_id)
             language = guess_language(paragraph_texts)
             if language == "en":
@@ -138,18 +143,11 @@ def make_dataset(speeches, speech_contents, map_contents):
         print("s")
     else:
         print("")
-
-
-    # pre-processing: drop NaNs
-    print('Preprocessing:\n')
-    df = pd.DataFrame({'X': pd.Series(paragraph_texts_all), 'y': pd.Series(paragraph_values_all)})
-    print('{} na data found'.format(len(df[df['X'].isna() == True].index)))
-    df = df.dropna()
-    print('na data dropped')
-
-    X, y = df['X'], df['y']
-    paragraph_texts_all = dict(X)
-    paragraph_values_all = dict(y)
-
-
     return paragraph_texts_all, paragraph_values_all
+
+
+def read_annotations():
+    map_contents = read_data_file(ANNOTATIONS_FILEPATH / "Map_Contents-20200726.csv")
+    speech_contents = read_data_file(ANNOTATIONS_FILEPATH / "Speech_Contents-20210520.txt")
+    speeches = read_data_file(ANNOTATIONS_FILEPATH / "Speeches-20210520.txt")
+    return map_contents, speech_contents, speeches
