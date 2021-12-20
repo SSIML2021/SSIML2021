@@ -6,28 +6,28 @@ title: Automated Cognitive Mapping of Political Speeches
 message: Please cite this software using these metadata.
 type: software
 authors:
-  - given-names: Shaomu
-    family-names: Tan
-    email: shaomu.tan.edu@gmail.com
-    affiliation: Utrecht University
-  - given-names: Sven
-    family-names: van der Burg
-    email: s.vanderburg@esciencecenter.nl
-    affiliation: Netherlands eScience Center
-    orcid: 'https://orcid.org/0000-0003-1250-6968'
   - given-names: Erik
     family-names: Tjong Kim Sang
     email: e.tjongkimsang@esciencecenter.nl
     affiliation: Netherlands eScienc Center
     orcid: 'https://orcid.org/0000-0002-8431-081X'
-  - given-names: Femke
-    family-names: van Esch
-    orcid: 'https://orcid.org/0000-0002-2559-3127'
+  - given-names: Sven
+    family-names: van der Burg
+    email: s.vanderburg@esciencecenter.nl
+    affiliation: Netherlands eScience Center
+    orcid: 'https://orcid.org/0000-0003-1250-6968'
+  - given-names: Shaomu
+    family-names: Tan
+    email: shaomu.tan.edu@gmail.com
     affiliation: Utrecht University
-    email: f.a.w.j.vanesch@uu.nl
   - given-names: Tejaswini
     family-names: Deoskar
     affiliation: Utrecht University
   - given-names: 'Jeroen '
     family-names: Snellens
     affiliation: Utrecht University
+  - given-names: Femke
+    family-names: van Esch
+    orcid: 'https://orcid.org/0000-0002-2559-3127'
+    affiliation: Utrecht University
+    email: f.a.w.j.vanesch@uu.nl
