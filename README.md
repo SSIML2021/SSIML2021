@@ -23,6 +23,11 @@ supervision of banks in the euro area concept]</span> <span style="background-co
  
 We need a tagger or a entity recognition program, for example transformers, huggingface/bert: https://github.com/huggingface/transformers , or Spacy
 
+## Contributing
+Contributons are welcome, see [CONTRIBUTING](CONTRIBUTING.md).
+
+## Citation
+If you want to cite this software, please use the metdata in [CITATION.cff](CITATION.cff).
 
 ## References
 
