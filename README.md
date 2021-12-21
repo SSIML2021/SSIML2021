@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/355485935.svg)](https://zenodo.org/badge/latestdoi/355485935)
+
 # Cognitive Mapping
 
 The data consists of text and relations, which have three parts (Concept1, Explanation and Concept2). 
